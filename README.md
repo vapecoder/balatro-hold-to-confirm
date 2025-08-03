@@ -5,7 +5,6 @@ A Balatro mod that adds hold-to-confirm functionality for all card purchases, sa
 ![Demo](demo.gif)
 
 ## Features
-
 - **Hold to Confirm**: All card actions require a 0.45-second hold instead of instant clicks
 - **Visual Progress**: Button colors transition from black to orange/green during hold
 - **Card Animations**: Cards bounce or shake during hold for visual feedback  
@@ -14,30 +13,26 @@ A Balatro mod that adds hold-to-confirm functionality for all card purchases, sa
 - **Smart Cancellation**: Release early to cancel action
 
 ## Installation
-
 1. Install [Steamodded](https://github.com/Steamopollys/Steamodded)
-2. Download `main.lua` from this repository
-3. Place it in your Balatro mods folder:
+2. Download Hold-To-Confirm.zip from this repository
+3. Extract and place folder in your Balatro mods folder:
    - **Windows**: `%APPDATA%\Balatro\Mods\`
    - **macOS**: `~/Library/Application Support/Balatro/Mods/`
    - **Linux**: `~/.local/share/Balatro/Mods/`
-4. Launch Balatro with Steamodded
-
-## How It Works
-
-- **Buy Actions**: Orange buttons require hold to purchase
-- **Sell Actions**: Green buttons require hold to sell
-- **Pack Opening**: Hold to open booster packs
-- **Voucher Redemption**: Hold to redeem vouchers
-- **Consumable Use**: Hold to use consumables
+4. Launch Balatro and make sure mod is enabled
+   
+## Works for the Following-
+- Buy Actions
+- Sell Actions
+- Pack Opening
+- Voucher Redemption 
+- Consumable Use
 
 ## Controls
-
 - **Mouse**: Hold left click
 - **Controller**: Hold A, Left Shoulder, or Right Shoulder
 
 ## Compatibility
-
 - Requires Steamodded mod loader
 - Compatible with Balatro v1.0.0+
 - Works alongside other Balatro mods
